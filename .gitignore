@@ -1,0 +1,5 @@
+/var/cache/*
+/var/log/*
+/app/config/parameters.yml
+/vendor/
+/bin/*
